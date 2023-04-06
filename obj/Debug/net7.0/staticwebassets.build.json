@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "ywSDgwT/QafrquOaLeQWmf8GGbxZGpxzu/kQFOWU+fI=",
+  "Source": "Aamnaa_proj",
+  "BasePath": "_content/Aamnaa_proj",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Aamnaa_proj\\wwwroot",
+      "Source": "Aamnaa_proj",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\clone\\Aamnaa_proj\\Aamnaa_proj\\wwwroot\\",
+      "BasePath": "_content/Aamnaa_proj",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\clone\\Aamnaa_proj\\Aamnaa_proj\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Aamnaa_proj.styles.css",
+      "SourceId": "Aamnaa_proj",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\clone\\Aamnaa_proj\\Aamnaa_proj\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Aamnaa_proj",
+      "RelativePath": "Aamnaa_proj.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\clone\\Aamnaa_proj\\Aamnaa_proj\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Aamnaa_proj.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\clone\\Aamnaa_proj\\Aamnaa_proj\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Aamnaa_proj.bundle.scp.css",
+      "SourceId": "Aamnaa_proj",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\clone\\Aamnaa_proj\\Aamnaa_proj\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Aamnaa_proj",
+      "RelativePath": "Aamnaa_proj.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\clone\\Aamnaa_proj\\Aamnaa_proj\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Aamnaa_proj.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\clone\\Aamnaa_proj\\Aamnaa_proj\\wwwroot\\css\\site.css",
+      "SourceId": "Aamnaa_proj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\clone\\Aamnaa_proj\\Aamnaa_proj\\wwwroot\\",
+      "BasePath": "_content/Aamnaa_proj",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\clone\\Aamnaa_proj\\Aamnaa_proj\\wwwroot\\favicon.ico",
+      "SourceId": "Aamnaa_proj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\clone\\Aamnaa_proj\\Aamnaa_proj\\wwwroot\\",
+      "BasePath": "_content/Aamnaa_proj",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

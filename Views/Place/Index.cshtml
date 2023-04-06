@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Aamnaa_proj.Models.Place>
+
+@{
+}
+
+<div class="container-grid">
+    @foreach (var item in Model)
+    {
+        <a href="place/details?id=@item.Id">
+            <div class="card">
+                <img src="@item.ImgUrl" alt="">
+                <h3>@item.Name</h3>
+                <h6>@item.Incharge</h6>
+            </div>
+        </a>
+
+    }
+</div>

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\clone\\Aamnaa_proj\\Aamnaa_proj\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Aamnaa_proj.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Aamnaa_proj.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\clone\\Aamnaa_proj\\Aamnaa_proj\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\clone\\Aamnaa_proj\\Aamnaa_proj\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Aamnaa_proj.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Aamnaa_proj.props",
+      "PackagePath": "build\\Aamnaa_proj.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Aamnaa_proj.props",
+      "PackagePath": "buildMultiTargeting\\Aamnaa_proj.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Aamnaa_proj.props",
+      "PackagePath": "buildTransitive\\Aamnaa_proj.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

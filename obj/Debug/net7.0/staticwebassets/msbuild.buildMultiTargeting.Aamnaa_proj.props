@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Aamnaa_proj.props" />
+</Project>
